@@ -32,6 +32,10 @@ module.exports = {
           'globe': {
             path: 'globe',
             component: 'GlobeActivity'
+          },
+          'timecontroller-demo': {
+            path: 'timecontroller-demo',
+            component: 'TimeControllerDemo'
           }
         }
       }
